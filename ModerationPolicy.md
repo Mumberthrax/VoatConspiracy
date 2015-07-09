@@ -15,7 +15,15 @@ Moderators are public servants, here to support the community in this mission.
 
 ### Responsibilities and Guidelines
 
+##### Basics/miscellaneous
+
 * Remove stuff that violates the rules
+
+* Promote community guidelines that help everyone to get along better.
+
+* Always distinguish comments when acting in an official capacity. Keep personal opinions about politics out of anything to do with moderation - unless it already specifically relates to moderation-related issues.
+
+##### Respect the community
 
 * Maintain a level of professionalism and courtesy when acting as a mod. Treat everyone with respect, even rule breakers or assholes.
 
@@ -25,7 +33,7 @@ Moderators are public servants, here to support the community in this mission.
 
 * When someone is banned, permit a ban appeal process in meta subverse
 
-* Always distinguish comments when acting in an official capacity. Keep personal opinions about politics out of anything to do with moderation - unless it already specifically relates to moderation-related issues.
+##### Communication
 
 * Try to be transparent with everything relating to moderation.
 
@@ -33,25 +41,28 @@ Moderators are public servants, here to support the community in this mission.
 
 * When users report something, take it seriously and respond as soon as possible - and follow up, even if you have no new information, just to let them know what's going on.
 
+##### Be active
+
 * Maintain a reasonable level of activity on the subverse - two weeks without any kind of interaction and the mod is liable to get a ping.
 
-* Be active and on top of disruption/attacks as they occur.
+* Generally be active and on top of disruption/attacks as they occur.
+
+##### Don'ts
 
 * Everyone makes mistakes - including moderators. It's ok. Admit it as soon as possible. If you're late admitting it, don't keep it a secret just go ahead and admit it anyway. Accept it and work on improving.
 
 * Don't make any project or thing claiming to represent the community at large without first discussing it with the community. (e.g. podcasts or newsletters or something)
 
-* Promote community guidelines that help everyone to get along better.
-
 ##### Work to support three agendas:
 
-* Help the community to more effectively organize and process the torrent of information about conspiracies and deep politics in informative and useful ways.
+> * Help the community to more effectively organize and process the torrent of information about conspiracies and deep politics in informative and useful ways.
 
-* Help to strengthen the community against disruptive elements, such as trolling, flaming, astroturfing, disinformation, misinformation, etc.
+> * Help to strengthen the community against disruptive elements, such as trolling, flaming, astroturfing, disinformation, misinformation, etc.
 
-* Help to encourage active participation, leadership, and community bonds.
+> * Help to encourage active participation, leadership, and community bonds.
 
 Facilitate, promote, and create/manage projects which support these three goals.  
+
 Some examples: AMA's, Stickying regular discussion topics chosen by the community, promoting links that help educate about disruptive behaviors and how to identify false or unsubstantiated information, promote community guidelines, movie/book nights/discussions, helping non-moderators to manage some aspects of these projects, etc.
 
 ### Adding new mods:
@@ -63,7 +74,7 @@ Much of this section is pending more in-depth community discussion.
 * **Entryism** - infiltration by malicious individuals/groups
 * **Incompetence** - some moderators may simply not have a clue (this can often be remedied with training, but not always)
 * **Inactivity** - disinterest in helping the community
-* **Immaturity** - unprofesional behavior
+* **Immaturity** - unprofessional behavior
 
 ##### Options:
 
