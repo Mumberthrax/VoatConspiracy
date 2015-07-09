@@ -17,7 +17,7 @@ Moderators are public servants, here to support the community in this mission.
 
 * Remove stuff that violates the rules
 
-* Maintain a level of professionalism and courtesy when acting as a mod. Treat everyone with respect, even rule breakers or assholes. Admonish for behaviors.
+* Maintain a level of professionalism and courtesy when acting as a mod. Treat everyone with respect, even rule breakers or assholes.
 
 * Generally err on the side of admonition and reform rather than removal. People make mistakes. Better to have people who previously erred in the community than a bunch of folks walking on eggshells.
 
