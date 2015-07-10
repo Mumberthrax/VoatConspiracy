@@ -31,7 +31,7 @@ Consider visiting /v/ConspiracyMeta to discuss our subverse and its moderation.
 
 ---
 
-Other subverses you may enjoy:
+#### Other subverses you may enjoy
 
 * /v/Underreported
 * /v/ConspiracyDocs
@@ -45,7 +45,7 @@ Other subverses you may enjoy:
 * /v/infowars
 * /v/alexjones
 
-Our friends with whom we may have a slight cultural clash, but nontheless fulfil an important role:
+Our friends with whom we may have a slight cultural clash, who nontheless fulfil an important role:
 
 * /v/topmindsofvoat
 * /v/criticalthinking
