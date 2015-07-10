@@ -18,7 +18,16 @@ Consider visiting /v/ConspiracyMeta to discuss our subverse and its moderation.
 
 ---
 
-*Just a reminder: you are the stewards of this community just as much as moderators. If you see someone involved in trolling or flaming, consider politely letting them know that that sort of conduct isn't preferred here. If you see someone stepping up to guide others, toss them an upvote if you support it.*
+#### Community guidelines
+
+1. Treat others with respect and courtesy
+2. Be critical of ideas, not people
+3. ALWAYS seek sources for claims, try to support any claims with evidence.
+4. Do not post clickbait titles
+5. Maintain an open mind - and don't accept anything without firm evidence
+6. Avoid fearmongering.
+
+*You are the stewards of this community just as much as moderators. If you see someone involved in trolling or flaming, consider politely letting them know that that sort of conduct isn't preferred here. If you see someone stepping up to guide others, toss them an upvote if you support it.*
 
 ---
 
