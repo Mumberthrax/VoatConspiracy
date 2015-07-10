@@ -31,6 +31,7 @@ Other subverses you may enjoy:
 * /v/theunexplained
 * /v/climateskeptics
 * /v/unsolvedmysteries
+* /v/conspiracyhumor
 * /v/history
 * /v/infowars
 * /v/alexjones
