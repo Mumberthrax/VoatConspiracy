@@ -18,6 +18,10 @@ Consider visiting /v/ConspiracyMeta to discuss our subverse and its moderation.
 
 ---
 
+*Just a reminder: you are the stewards of this community just as much as moderators. If you see someone involved in trolling or flaming, consider politely letting them know that that sort of conduct isn't preferred here. If you see someone stepping up to guide others, toss them an upvote if you support it.*
+
+---
+
 Other subverses you may enjoy:
 
 * /v/Underreported
@@ -31,7 +35,7 @@ Other subverses you may enjoy:
 * /v/infowars
 * /v/alexjones
 
-Our friends with whom we may have a slight cultural clash:
+Our friends with whom we may have a slight cultural clash, but nontheless fulfil an important role:
 
 * /v/topmindsofvoat
 * /v/criticalthinking
